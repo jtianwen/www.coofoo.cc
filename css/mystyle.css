@@ -1,0 +1,53 @@
+body
+{
+    margin: 0px;
+}
+h2.title
+{
+    background-color: #606060;
+    color: #FFFFFF;
+    margin: 0px;
+    padding: 10px 30px 10px 30px;
+    font-size: 30px;
+}
+div.header
+{
+    background-color: #282828;
+    color: #FFFFFF;
+    padding: 10px 30px 10px 30px;
+    font-size: 22px;
+}
+div.content
+{
+    padding: 10px 30px 10px 30px;
+    margin: 0px;
+    font-size: 18px;
+}
+div.article
+{
+    margin: 0px;
+    padding: 10px 30px 10px 30px;
+    font-size: 16px;
+}
+div.footer
+{
+    bottom: 0;
+    background-color: #181818;
+    color: #FFFFFF;
+    font-size: 20px;
+    padding: 10px 30px 10px 30px;
+}
+li
+{
+    padding: 5px;
+}
+pre
+{
+    background-color: #99cccc;
+}
+textarea.status
+{
+    font-size: 20px;
+    width: 70%;
+    height: 300px;
+}
